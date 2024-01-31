@@ -1,0 +1,30 @@
+# Part D: Reflection - [Your Name]
+
+## 1. Individual Contributions
+
+I took the lead in completing all parts of the assignment. 
+My responsibilities included tackling Part A, B, and C, 
+where I implemented various features, such as the undo button 
+and a deep level of recursion for determining the best move. 
+I focused on ensuring the functionality of the game while navigating 
+through the intricacies of pygame and logic implementation.
+
+## 2. Learning Experience
+
+This assignment provided me with valuable learning experiences. 
+Firstly, I gained proficiency in using pygame, 
+a skill that was essential for creating an interactive game environment. 
+Additionally, I delved into the intricacies of deepcopy operations, 
+optimizing game strategies, and developing an understanding of 
+how to implement an optimal game approach.
+
+## 3. Most Challenging Aspect and Overcoming Challenges
+
+Part A, B, and C each presented unique challenges, 
+but Part B stood out as the most demanding. 
+Crafting the correct logic for the game 
+and devising an optimal strategy that passed all test cases required meticulous planning. 
+Overcoming this challenge involved a deep dive into the intricacies of the game's logic, 
+iterating through various strategies, and celebrating the successful execution of the game. 
+The satisfaction of witnessing my game run smoothly was a rewarding outcome of overcoming these challenges.
+
